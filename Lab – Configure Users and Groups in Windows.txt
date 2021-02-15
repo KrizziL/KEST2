@@ -1,0 +1,43 @@
+What are the names of the accounts listed? Administrator, Guest, ITEUser, Krizzi, Kristján Logi.
+
+Select the Groups folder. Name five groups from the list. Administrators, Backup Operators, Guests, Power Users, and Users
+
+Which group does your account belong to? Administrators
+
+What is Student01 required to do when logging in the first time? Change password
+
+What group does User01 belong to? Users
+
+From the description, can the members of the Users group make system wide changes? What can the
+Users group do on the computer? Þeir Geta ekki Gert stórar breytingar en þeir geta opnað flest forrit og notið tölvuna
+
+Who are the group members? Student01, Student02, Staff01, Staff02,
+
+Were you successful in creating the new account? Maður for ekki aðgang maður getur ekki gert nydan user útaf það hefur áhrif á allri tölvunni
+
+Were you able to navigate to www.cisco.com? Já
+
+ what can the members do in this folder? þeir see era í ITEStaff grubbing half read execute list folder contents go read aðgang
+
+Which additional checkbox would you select? Full Control boxið
+
+Navigate to the folder C:\Students. Create a folder named Student01 and create a text document in the folder. Were you successful? Já maður hefur fulla notkun af þessum folder
+
+
+Navigate to the folder C:\Staff. Create a folder named Student01 and place a text file in the folder. Were you successful? nei hafa ekki aðgang af því
+
+
+Navigate to C:\. Can you place a text file in the Staff folder? Can you modify the text file in folder Student01? Student hafa ekki aðgang af Staff folderinum enn þeir hafa fullan aðgang af Stundent folderinum
+ 
+Navigate to the folder C:\Students. Are you able to access the content in the Student01 and Student02 folders? Student01 hefur aðgang af Studen01 folderinum enn hann hefur ekki aðgang af Student02 folderinum
+ 
+
+Navigate to the folder C:\. Were you able to access the content in the folders Staff, Student\Student01 and Student\Student02? Þeir hafa aðgang af öllu mögulegu
+
+Can you log on as Staff02? nei hann hefur verið disablead
+
+How would you give administrative privileges on the local computer to all the members of ITEStaff? maður þarf að fara í Control Panel > Administrative Tools > Computer Management > Local Users go Groups > hægri smella Add to Group. Ýtið á add ITEStaff to the group Administrator.
+
+
+
+

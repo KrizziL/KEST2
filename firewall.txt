@@ -1,0 +1,19 @@
+Under PC-1, Are you able to see the shared folder Cisco? Já
+
+What are the benefits of Windows Firewall? Firewall getur komið í veg fyrir að hackerar og slæm forrit eyðileggja tölvua þína
+
+Creating too many exceptions in your Programs and Services file can have negative consequences.
+Describe a negative consequence of having too many exceptions. Þá gæti eitt af þeim brotist í gegn o eyðilagt tölvuna þína á eithvern slæman hátt
+
+Can you connect to PC-1 and view the Cisco shared folder? New
+
+Did you receive an error message on PC-2? If so, what was the Error message? Já Windows cannot access \\PC-1.
+
+On PC-2, re-open File Explorer and attempt to connect to PC-1.
+Can you connect to computer 1? Why? Já staff firewall er ekki að soma í veg fyrir því lengur
+
+List the short name of four services that are available. AeLookupSvc, Appinfo, ALG, AppMgmt og fleira
+
+What are some possible reasons you may need to make firewall changes? Gæti verið utaf net vandamálum eða til að fá betri samband í eithverjum tölvuleik í gengum eithvað ákveðið port. kannski ertu að reyna að ná sambandi við eithvað en firewall er að blocka það þá þarftu að breyta eithverju.
+
+
